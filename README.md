@@ -1,7 +1,7 @@
 # README.md
 
 
-<pre><code> 
+<code> 
 //Receiver
 출처: http://swalloow.tistory.com/66 [MyCloud]
 import java.io.*;
@@ -51,7 +51,7 @@ System.out.println("\n"+fname+" is received.");
    }
   }
 }
-</code></pre>
+</code>
 
 <pre><code> 
 //Sender 
