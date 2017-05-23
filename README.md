@@ -54,7 +54,7 @@ System.out.println("\n"+fname+" is received.");
 </code></pre>
 
 <pre><code> 
-//Sender
+//Sender 
 import java.io.*;
 import java.net.*;
 public class UDPFileSender {
