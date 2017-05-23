@@ -52,7 +52,7 @@ System.out.println("\n"+fname+" is received.");
   }
 } 
 
-![서버](C:\Users\Administrator\Desktop)
+
 
 
 
